@@ -14,7 +14,7 @@
 <li>To run this project in your device, download the repository and open terminal in your editor and run command...</li>
 </ul><p><code style="margin-left:40px">npm start</code></p><ul>
 <li>Or you can directly visit</li>
-</ul><p><a href="https://hansalshah007.github.io/readme-generator/" target="_blank"><code style="margin-left:40px">https://hansalshah007.github.io/readme-generator/</code></a></p>
+</ul><p><a href="http://abgitters.github.io/coders-marathon-task/" target="_blank"><code style="margin-left:40px">http://abgitters.github.io/coders-marathon-task/</code></a></p>
 
 <h2>Setup</h2>
 <hr><p>Project is Listed on github-pages</p><h5>Steps</h5><ul>
