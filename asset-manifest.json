@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coders-marathon-task/static/css/main.b86b698e.css",
+    "main.js": "/coders-marathon-task/static/js/main.13282f75.js",
+    "index.html": "/coders-marathon-task/index.html",
+    "main.b86b698e.css.map": "/coders-marathon-task/static/css/main.b86b698e.css.map",
+    "main.13282f75.js.map": "/coders-marathon-task/static/js/main.13282f75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b86b698e.css",
+    "static/js/main.13282f75.js"
+  ]
+}
